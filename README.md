@@ -40,8 +40,6 @@ The application simulates the basic workflow of a driving license authority, all
 * Object Oriented Programming (OOP)
 * File Handling
 * Windows API
-* Visual Studio
-* VS Code
 
 ---
 
@@ -131,7 +129,9 @@ Ctrl + F5
 
 ---
 
-# Default Testing Officer Credentials
+# Default Administrative Credentials
+
+## Testing Officer
 
 Username
 
@@ -145,7 +145,19 @@ Password
 root12345
 ```
 
-These credentials are included only for demonstration purposes.
+## License Incharge
+
+Username
+
+```
+incharge
+```
+
+Password
+
+```
+incharge123
+```
 
 ---
 
